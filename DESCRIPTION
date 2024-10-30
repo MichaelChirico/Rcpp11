@@ -11,5 +11,6 @@ Description: Rcpp11 includes a header only C++11 library that facilitates
   integration between R and modern C++. 
 Depends: R (>= 3.1.2)
 License: MIT + file LICENSE
+URL: https://github.com/Rcpp11/Rcpp11
 SystemRequirements: C++11
 
